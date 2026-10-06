@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="desafio4"
+version="1.0.0"
+displayName="Desafío 4"
+description='''
+Ruletas, momentos, misiones, vidas, animaciones de muerte y revivir, tótems, cambios de dificultad y más.
+Todo se controla por menú, por ítem o por comandos (/d4).
+'''
+
+[[dependencies.desafio4]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.desafio4]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

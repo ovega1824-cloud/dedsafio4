@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LLL",
+    "BFB",
+    "OOO"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "F": {
+      "item": "minecraft:soul_campfire"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "desafio4:resurrection_campfire",
+    "count": 1
+  }
+}

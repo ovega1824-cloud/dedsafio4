@@ -1,0 +1,24 @@
+{
+  "type": "desafio4:limited_shaped",
+  "category": "misc",
+  "pattern": [
+    "GRG",
+    "RTR",
+    "GRG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "result": {
+    "item": "desafio4:resurrection_heart",
+    "count": 1
+  }
+}
